@@ -19,6 +19,7 @@ If you are a student interested in statistics research, [send me an email](mailt
 
 ## Student Projects
 
+- Benjamin Matta, Sac State Math Masters Student, [*Analysis of Math 12 PAL effects*](https://lgpperry.github.io/research/Math12PAL.html)
 - Feini Pek, Sac State Math Major, [*A Comparative Simulation Study on Various Equality of Variance Tests*](https://lgpperry.github.io/research/Spring_symp23.pdf)
 - Shriya Iyer, Camp Talaria Participant, [*Examining Attitudes Towards Face Masks Using Sentiment Analysis of Tweets*](https://lgpperry.github.io/research/ATHENA_Research_Paper.pdf)
 
