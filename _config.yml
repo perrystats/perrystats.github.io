@@ -14,11 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Lauren Perry, PhD
-repository: lgpperry/lgpperry.github.io
+repository: perrystats/perrystats.github.io
 email: perry@csus.edu
-description: test description
-# twitter_username: lgpperry
-github_username: lgpperry
+github_username: perrystats
 minimal_mistakes_skin: default
 search: true
 
@@ -61,20 +59,20 @@ author:
   bio    : "Assistant Professor of Mathematics & Statistics at Sacramento State<br>Pronouns: she/her"
   links:
     - label: Intro Stats (textbook)
-      url: https://lgpperry.github.io/IntroStats/
+      url: https://perrystats.github.io/IntroStats/
     - label: Sac State Math/Stats
       url: "https://www.csus.edu/college/natural-sciences-mathematics/mathematics-statistics/"
     - label: NorCal DataFest
       url: "https://norcaldatafest.netlify.app/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/lgpperry"
+      url: "https://github.com/perrystats"
 
 footer:
   # links:
   #   - label: "GitHub"
   #     icon: "fab fa-fw fa-github"
-  #     url: "https://github.com/lgpperry"
+  #     url: "https://github.com/perrystats"
 
 defaults:
   # _posts
