@@ -1,6 +1,6 @@
 # About
 
-Assistant Professor of Mathematics & Statistics at California State University, Sacramento.
+Associate Professor of Mathematics & Statistics at California State University, Sacramento.
 
 ## Contact
 
