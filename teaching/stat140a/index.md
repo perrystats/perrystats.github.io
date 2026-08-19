@@ -5,7 +5,7 @@ title: "STAT 140A: Linear Models"
 author_profile: true
 ---
 
-[Sample Syllabus](https://lgpperry.github.io/teaching/stat140a/stat140A-syllabus.pdf)
+[Sample Syllabus](https://perrystats.github.io/teaching/stat140a/stat140A-syllabus.pdf)
 
 ## Slides
 
@@ -13,21 +13,21 @@ author_profile: true
 
 ### Linear Regression
 
-- [Linear Models](https://lgpperry.github.io/teaching/stat140a/1-Linear-Models.pdf)
-- [Simple Linear Regression](https://lgpperry.github.io/teaching/stat140a/2-Simple-Linear-Regression.pdf)
-- [Assessing Accuracy](https://lgpperry.github.io/teaching/stat140a/3-Assessing-Accuracy.pdf)
-- [Multiple Linear Regression](https://lgpperry.github.io/teaching/stat140a/3-Assessing-Accuracy.pdf)
-- [Qualitative Preditors and Interactions](https://lgpperry.github.io/teaching/stat140a/5-Quantitative-Predictors-and-Interactions.pdf)
-- [Model Diagnostics](https://lgpperry.github.io/teaching/stat140a/6-Model-Diagnostics.pdf)
+- [Linear Models](https://perrystats.github.io/teaching/stat140a/1-Linear-Models.pdf)
+- [Simple Linear Regression](https://perrystats.github.io/teaching/stat140a/2-Simple-Linear-Regression.pdf)
+- [Assessing Accuracy](https://perrystats.github.io/teaching/stat140a/3-Assessing-Accuracy.pdf)
+- [Multiple Linear Regression](https://perrystats.github.io/teaching/stat140a/3-Assessing-Accuracy.pdf)
+- [Qualitative Preditors and Interactions](https://perrystats.github.io/teaching/stat140a/5-Quantitative-Predictors-and-Interactions.pdf)
+- [Model Diagnostics](https://perrystats.github.io/teaching/stat140a/6-Model-Diagnostics.pdf)
 
 ### Missing Data
 
-- [A Brief Overview of Missing Data](https://lgpperry.github.io/teaching/stat140a/1-Missing-Data.html)
+- [A Brief Overview of Missing Data](https://perrystats.github.io/teaching/stat140a/1-Missing-Data.html)
 
 ### ANOVA
 
-- [Introduction to ANOVA](https://lgpperry.github.io/teaching/stat140a/1-Intro-ANOVA.html)
-- [Multiple Comparisons](https://lgpperry.github.io/teaching/stat140a/3-Multiple-Comparisons.pdf)
-- [ANOVA as Linear Models](https://lgpperry.github.io/teaching/stat140a/4-ANOVA-Linear-Models.pdf)
-- [Factorial Designs](https://lgpperry.github.io/teaching/stat140a/5-Factorial-Designs.html)
-- [Block Designs](https://lgpperry.github.io/teaching/stat140a/6-Block-Designs.html)
+- [Introduction to ANOVA](https://perrystats.github.io/teaching/stat140a/1-Intro-ANOVA.html)
+- [Multiple Comparisons](https://perrystats.github.io/teaching/stat140a/3-Multiple-Comparisons.pdf)
+- [ANOVA as Linear Models](https://perrystats.github.io/teaching/stat140a/4-ANOVA-Linear-Models.pdf)
+- [Factorial Designs](https://perrystats.github.io/teaching/stat140a/5-Factorial-Designs.html)
+- [Block Designs](https://perrystats.github.io/teaching/stat140a/6-Block-Designs.html)
