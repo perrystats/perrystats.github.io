@@ -5,73 +5,73 @@ title: "STAT 140B Statisical Learning"
 author_profile: true
 ---
 
-[Sample Syllabus](https://lgpperry.github.io/teaching/stat140b/stat140B-syllabus.pdf)
+[Sample Syllabus](https://perrystats.github.io/teaching/stat140b/stat140B-syllabus.pdf)
 
 ## Slides
 
 The following slides' content is borrowed/adapted from the textbook [Introduction to Statistical Learning](https://www.statlearning.com/) and associated slides by James, Witten, Hastie, And Tibshirani.
 
 ### Chapter 2: Statistical Learning
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_2_1.pdf">2.1 What is Statistical Learning?</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_2_2.pdf">2.2 Assessing Model Accuracy</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_2_1.pdf">2.1 What is Statistical Learning?</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_2_2.pdf">2.2 Assessing Model Accuracy</a>
 
 ### Chapter 3: Linear Regression
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_3_1.pdf">3.1 (Simple) Linear Regression</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_3_2.pdf">3.2 Multiple Linear Regression</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_3_3.pdf">3.3 Other Considerations in the Regression Model</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_3_1.pdf">3.1 (Simple) Linear Regression</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_3_2.pdf">3.2 Multiple Linear Regression</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_3_3.pdf">3.3 Other Considerations in the Regression Model</a>
 
 ### Chapter 4: Classification
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_4_1.pdf">4.1 and 4.2 Introducing Classification</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_4_3.pdf">4.3 Logistic Regression</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_4_4.pdf">4.4 Generative Models for Classification</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_4_5.pdf">4.5 A Comparison of Classification Methods</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_4_1.pdf">4.1 and 4.2 Introducing Classification</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_4_3.pdf">4.3 Logistic Regression</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_4_4.pdf">4.4 Generative Models for Classification</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_4_5.pdf">4.5 A Comparison of Classification Methods</a>
     - Note that these are not directly based on the ISLR text; students are recommended to browse that section on their own.
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_4_6.pdf">4.6 Generalized Linear Models</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_4_6.pdf">4.6 Generalized Linear Models</a>
 
 ### Chapter 5: Resampling Methods
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_5_1.pdf">5.1 Cross-Validation</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_5_2.pdf">5.2 Bootstrap</a> 
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_5_1.pdf">5.1 Cross-Validation</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_5_2.pdf">5.2 Bootstrap</a> 
     - (Thanks to Dr. James Flegal for some of the <a href="https://faculty.ucr.edu/~jflegal/206/">content</a> in these!)
 
 ### Chapter 6: Linear Model Selection and Regularization
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_6_1.pdf">6.1 Subset Selection</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_6_2.pdf">6.2 Shrinkage Methods</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_6_3.pdf">6.3 Dimension Reduction Methods</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_6_4.pdf">6.4 Considerations in High Dimensions</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_6_1.pdf">6.1 Subset Selection</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_6_2.pdf">6.2 Shrinkage Methods</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_6_3.pdf">6.3 Dimension Reduction Methods</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_6_4.pdf">6.4 Considerations in High Dimensions</a>
 
 ### Chapter 7: Linear Model Selection and Regularization
 - 7.1 Polynomial Regression (covered in detail in Stat 140A)
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_7_2.pdf">7.2 Step Functions</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_7_3.pdf">7.3 and 7.4: Basis Functions and Regression Splines</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_7_5.pdf">7.5 Smoothing Splines</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_7_6.pdf">7.6 and 7.7 Local Regression and Generalized Additive Models</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_7_2.pdf">7.2 Step Functions</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_7_3.pdf">7.3 and 7.4: Basis Functions and Regression Splines</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_7_5.pdf">7.5 Smoothing Splines</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_7_6.pdf">7.6 and 7.7 Local Regression and Generalized Additive Models</a>
 
 ### Chapter 8: Tree-Based Methods
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_8_1.pdf">8.1 Decision Tree Basics</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_8_2.pdf">8.2 Bagging, Random Forests, Boosting, and Bayesian Additive Regression Trees</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_8_1.pdf">8.1 Decision Tree Basics</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_8_2.pdf">8.2 Bagging, Random Forests, Boosting, and Bayesian Additive Regression Trees</a>
 
 ### Chapter 9: Support Vector Machines
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_9_1.pdf">9.1 Maximal Margin Classifiers</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_9_2.pdf">9.2 Support Vector Classifiers</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_9_3.pdf">9.3-9.5 Support Vector Machines</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_9_1.pdf">9.1 Maximal Margin Classifiers</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_9_2.pdf">9.2 Support Vector Classifiers</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_9_3.pdf">9.3-9.5 Support Vector Machines</a>
 
 ### Chapter 10: Deep Learning
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_10_1.pdf">10.1 Single Layer Neural Networks</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_10_2.pdf">10.2 Multilayer Neural Networks</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_10_3.pdf">10.3 Convolutional Neural Networks</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_10_4.pdf">10.4 Document Classification</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_10_5.pdf">10.5 Recurrent Neural Networks</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_10_6.pdf">10.6 When to Use Deep Learning</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_10_7.pdf">10.7 Fitting a Neural Network</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_10_8.pdf">10.8 Interpolation and Double Descent</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_10_1.pdf">10.1 Single Layer Neural Networks</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_10_2.pdf">10.2 Multilayer Neural Networks</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_10_3.pdf">10.3 Convolutional Neural Networks</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_10_4.pdf">10.4 Document Classification</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_10_5.pdf">10.5 Recurrent Neural Networks</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_10_6.pdf">10.6 When to Use Deep Learning</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_10_7.pdf">10.7 Fitting a Neural Network</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_10_8.pdf">10.8 Interpolation and Double Descent</a>
 
 ### Chapter 12: Unsupervised Learning
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_12_1.pdf">12.1 The Challenge of Unsupervised Learning</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_12_2.pdf">12.2 Principal Components Analysis</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_12_3.pdf">12.3 Missing Values and Matrix Completion</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_12_4.pdf">12.4 Clustering Methods</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_12_1.pdf">12.1 The Challenge of Unsupervised Learning</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_12_2.pdf">12.2 Principal Components Analysis</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_12_3.pdf">12.3 Missing Values and Matrix Completion</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_12_4.pdf">12.4 Clustering Methods</a>
 
 ### Chapter 11: Survival Analysis
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_11_1.pdf">11.1 and 11.2 Survival and Censoring</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_11_3.pdf">11.3 The Kaplan-Meier Survival Curve</a>
-- <a href="https://lgpperry.github.io/teaching/stat140b/slides/Slides_11_4.pdf">11.4 The Log-Rank Test</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_11_1.pdf">11.1 and 11.2 Survival and Censoring</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_11_3.pdf">11.3 The Kaplan-Meier Survival Curve</a>
+- <a href="https://perrystats.github.io/teaching/stat140b/slides/Slides_11_4.pdf">11.4 The Log-Rank Test</a>
