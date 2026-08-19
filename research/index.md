@@ -19,16 +19,16 @@ If you are a student interested in statistics research, [send me an email](mailt
 
 ## Student Projects
 
-- Benjamin Matta, Sac State Math Masters Student, [*Analysis of Math 12 PAL effects*](https://lgpperry.github.io/research/Math12PAL.html)
-- Feini Pek, Sac State Math Major, [*A Comparative Simulation Study on Various Equality of Variance Tests*](https://lgpperry.github.io/research/Spring_symp23.pdf)
-- Shriya Iyer, Camp Talaria Participant, [*Examining Attitudes Towards Face Masks Using Sentiment Analysis of Tweets*](https://lgpperry.github.io/research/ATHENA_Research_Paper.pdf)
+- Benjamin Matta, Sac State Math Masters Student, [*Analysis of Math 12 PAL effects*](https://perrystats.github.io/research/Math12PAL.html)
+- Feini Pek, Sac State Math Major, [*A Comparative Simulation Study on Various Equality of Variance Tests*](https://perrystats.github.io/research/Spring_symp23.pdf)
+- Shriya Iyer, Camp Talaria Participant, [*Examining Attitudes Towards Face Masks Using Sentiment Analysis of Tweets*](https://perrystats.github.io/research/ATHENA_Research_Paper.pdf)
 
 ### Publications and Conferences
 
-- [*A Friendly Intervention: Propensity Scores, Overlap Weights, and Peer Assisted Learning*](https://lgpperry.github.io/research/FacultySpotlightSlides.pdf) (Faculty Spotlight Talk, Sac State Math Colloquium, April 2026)
-- [*Where are all the professors of color?*](https://lgpperry.github.io/research/AHSIE2023.pdf) (Lightning talk, AHSIE 2023)
-- [*Challenges and Successes of Emergency Online Teaching*](https://lgpperry.github.io/research/Emergency_Online_Teaching_Talk.pdf) (Talk given at the Chico State Math Colloquium, October 2022)
+- [*A Friendly Intervention: Propensity Scores, Overlap Weights, and Peer Assisted Learning*](https://perrystats.github.io/research/FacultySpotlightSlides.pdf) (Faculty Spotlight Talk, Sac State Math Colloquium, April 2026)
+- [*Where are all the professors of color?*](https://perrystats.github.io/research/AHSIE2023.pdf) (Lightning talk, AHSIE 2023)
+- [*Challenges and Successes of Emergency Online Teaching*](https://perrystats.github.io/research/Emergency_Online_Teaching_Talk.pdf) (Talk given at the Chico State Math Colloquium, October 2022)
 
-You can check out my dissertation, [*Adjusting for Population Differences Using Applied Machine Learning Methods*, here](https://lgpperry.github.io/research/Dissertation.pdf). (For the "too long, didn't read" version, [here are the slides for the 15 minute talk](https://lgpperry.github.io/research/ResearchTalk_CSUS.pdf) I gave on this work when I applied for my job here at Sac State!)
+You can check out my dissertation, [*Adjusting for Population Differences Using Applied Machine Learning Methods*, here](https://perrystats.github.io/research/Dissertation.pdf). (For the "too long, didn't read" version, [here are the slides for the 15 minute talk](https://perrystats.github.io/research/ResearchTalk_CSUS.pdf) I gave on this work when I applied for my job here at Sac State!)
 
-For a complete list of my publications and presentations, see my [CV](https://lgpperry.github.io/PerryCV.pdf). I'm happy to share copies of any of the listed articles.
+For a complete list of my publications and presentations, see my [CV](https://perrystats.github.io/PerryCV.pdf). I'm happy to share copies of any of the listed articles.
