@@ -12,7 +12,7 @@ author_profile: true
 - [RDRR.io](https://rdrr.io/snippets/)
 
 ## Shiny Apps
-- <a href="https://lgpperry.github.io/teaching/shinyapps/">A list of my Shiny Apps and the code to run them.</a>
+- <a href="https://perrystats.github.io/teaching/shinyapps/">A list of my Shiny Apps and the code to run them.</a>
 
 ## [Rossman and Chance Applets](https://www.rossmanchance.com/applets/index2021.html)
 
@@ -23,7 +23,7 @@ author_profile: true
 
 ### Stat 1 (Intro Stats)
 
-- [Introduction to Statistics](https://lgpperry.github.io/IntroStats/) (This is my own text that I use in Stat 1.)
+- [Introduction to Statistics](https://perrystats.github.io/IntroStats/) (This is my own text that I use in Stat 1.)
 - [OpenIntro Statistics](https://leanpub.com/openintro-statistics)
 - [Introductory Statistics by OpenStax](https://openstax.org/details/books/introductory-statistics)
 
@@ -44,7 +44,7 @@ author_profile: true
 
 ### Other
 
-- [Exploring Elementary Mathematics](https://lgpperry.github.io/teaching/Math107Book.pdf) (This is the textbook for Math 107A, written by [Dr. Elce](https://www.csus.edu/faculty/e/kelce/).) 
+- [Exploring Elementary Mathematics](https://perrystats.github.io/teaching/Math107Book.pdf) (This is the textbook for Math 107A, written by [Dr. Elce](https://www.csus.edu/faculty/e/kelce/).) 
 
 ## Sac State Student Resources
 
