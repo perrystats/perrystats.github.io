@@ -56,7 +56,7 @@ plugins:
 author:
   # name   : "Lauren Perry"
   avatar : "https://avatars.githubusercontent.com/u/5975339?v=4"
-  bio    : "Assistant Professor of Mathematics & Statistics at Sacramento State<br>Pronouns: she/her"
+  bio    : "Associate Professor of Mathematics & Statistics at Sacramento State<br>Pronouns: she/her"
   links:
     - label: Intro Stats (textbook)
       url: https://perrystats.github.io/IntroStats/
