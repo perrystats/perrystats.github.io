@@ -11,10 +11,10 @@ Here is a collection of Shiny Apps I've written. I've also included a link to th
 
 ### Teaching Tools
 
-- <a href="https://lgpcappiello.shinyapps.io/normcalc/">Normal Distribution Calculator</a>
-- <a href="https://lgpcappiello.shinyapps.io/SimulateCLT/">Simulating the Central Limit Theorem</a>
-- <a href="https://lgpcappiello.shinyapps.io/NormalApproxBinom/">Visualizing the Normal Approximation to the Binomial Distribution</a>
+- <a href="https://perrystats.shinyapps.io/normcalc/">Normal Distribution Calculator</a>
+- <a href="https://perrystats.shinyapps.io/SimulateCLT/">Simulating the Central Limit Theorem</a>
+- <a href="https://perrystats.shinyapps.io/NormalApproxBinom/">Visualizing the Normal Approximation to the Binomial Distribution</a>
 
 ### Just For Fun
 
-- <a href="https://lgpcappiello.shinyapps.io/charactergenerator/">Character Generator</a>
+- <a href="https://perrystats.shinyapps.io/charactergenerator/">Character Generator</a>
