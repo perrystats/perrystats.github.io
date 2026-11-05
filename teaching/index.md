@@ -11,12 +11,15 @@ author_profile: true
 
 - <a href="https://perrystats.github.io/teaching/stat1/">STAT 1 Introduction to Statistics</a>
 - STAT 10A Introductory Statistics with Developmental Math
+- STAT 50 Probability and Statistics
 - STAT 115A Introduction to Probability Theory
 - STAT 115B Introduction to Mathematical Statistics
 - <a href="https://perrystats.github.io/teaching/stat128/">STAT 128 Statistical Computing</a>
 - <a href="https://perrystats.github.io/teaching/stat140a/">STAT 140A Linear Models</a>
 - <a href="https://perrystats.github.io/teaching/stat140b/">STAT 140B Statistical Learning</a>
-- STAT 199 Independent Study
+- STAT 191 Service Learning in Statistics
+- STAT 199 Undergraduate Independent Study
+- STAT 299 Graduate Independent Study
 - MATH 26A Calculus I for the Social and Life Sciences
 - MATH 107A Fundamental Mathematical Concepts
 
@@ -31,6 +34,6 @@ author_profile: true
 *Note: much of the captioning for the mini-lectures was generated automatically by YouTube. If you notice any inaccurate or confusing captions, please let me know and I will get them fixed as soon as possible.*
 
 ## Department of Statistics at UC Riverside
-### Course Websites
-- [STAT 100A Introduction to Statistics (Summer 2019)](https://perrystats.github.io/teaching/stat100a/)
-- [STAT 100B Introduction to Statistics (Fall 2019)](https://perrystats.github.io/teaching/stat100b/)
+
+- STAT 100A Introduction to Statistics
+- STAT 100B Introduction to Statistics
